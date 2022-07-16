@@ -1,0 +1,26 @@
+/**
+ * Do not edit directly
+ * Generated on Sat, 16 Jul 2022 07:24:42 GMT
+ */
+
+:root {
+  --sd-global-8: 8;
+  --sd-global-20: 20;
+  --sd-global-30: 30;
+  --sd-global-header: #F9F6F6;
+  --sd-global-sm: [object Object];
+  --sd-global-lg: [object Object];
+  --sd-light-color-bg: #FFFFFF;
+  --sd-light-color-header: #d5d5d5;
+  --sd-light-color-text-color: #222222;
+  --sd-light-border-page: 30;
+  --sd-light-header-opacity: 50%;
+  --sd-dark-20: 20;
+  --sd-dark-24: 24;
+  --sd-dark-color-bg: #222222;
+  --sd-dark-color-header: #2F2F2F;
+  --sd-dark-color-text-color: #FFFFFF;
+  --sd-dark-text: [object Object];
+  --sd-dark-border-page: 60;
+  --sd-dark-header-opacity: 10%;
+}
