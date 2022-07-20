@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 20 Jul 2022 13:58:48 GMT
+ * Generated on Wed, 20 Jul 2022 14:17:01 GMT
  */
 
 :root {
@@ -16,9 +16,11 @@
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
   --size-font-base: 1rem; /* the base size of the font */
-  --dark-bg: #1A202C;
-  --dark-surface: #A0AEC0;
-  --dark-text: #FFFFFF;
-  --dark-accent: #e30daa;
-  --dark-border-radius: 10;
+  --light-blue: blue;
+  --light-dark-bg: #1A202C;
+  --light-dark-bg2: #ccccc;
+  --light-dark-surface: #A0AEC0;
+  --light-dark-text: #FFFFFF;
+  --light-dark-accent: #e30daa;
+  --light-dark-border-radius: 10;
 }

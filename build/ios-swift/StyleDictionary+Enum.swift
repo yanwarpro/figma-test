@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Jul 2022 13:58:48 GMT
+// Generated on Wed, 20 Jul 2022 14:17:01 GMT
 
 
 import UIKit
@@ -18,11 +18,13 @@ public enum StyleDictionaryEnum {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let darkAccent = #e30daa
-    public static let darkBg = #1A202C
-    public static let darkBorderRadius = 10
-    public static let darkSurface = #A0AEC0
-    public static let darkText = #FFFFFF
+    public static let lightBlue = blue
+    public static let lightDarkAccent = #e30daa
+    public static let lightDarkBg = #1A202C
+    public static let lightDarkBg2 = #ccccc
+    public static let lightDarkBorderRadius = 10
+    public static let lightDarkSurface = #A0AEC0
+    public static let lightDarkText = #FFFFFF
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
