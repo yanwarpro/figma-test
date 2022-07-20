@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 16 Jul 2022 12:11:36 GMT
+// Generated on Wed, 20 Jul 2022 13:58:48 GMT
 
 
 import UIKit
@@ -18,8 +18,9 @@ public class StyleDictionaryClass {
     public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let darkAccent = #5A67D8
+    public static let darkAccent = #e30daa
     public static let darkBg = #1A202C
+    public static let darkBorderRadius = 10
     public static let darkSurface = #A0AEC0
     public static let darkText = #FFFFFF
     public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
